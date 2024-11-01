@@ -17,6 +17,7 @@
   "dependencies": {
     "@distube/ytdl-core": "^4.13.3",
     "@duyhau/fca-unofficial": "^1.0.9",
+    "@dongdev/fca-unofficial": "",
     "@miraipr0ject/assets": "^1.0.9",
     "acorn": "^8.10.0",
     "archiver": "^6.0.1",
